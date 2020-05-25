@@ -9,7 +9,7 @@ https://mp.weixin.qq.com/s?__biz=MzI3OTA5NDQ5MA==&tempkey=MTA2Ml9JNVNLT0ZlQlAyU1
 # 使用的架构
 为了能让更多志愿者参与开发这个网站，我们的：
 
-后台架构选择Django 3.0.6；
+后台框架选择Django 3.0.6；
 
 前端选择Bootstrap 4.4.1（我太不擅长前端了，不如哪位大神先做出来就用ta的框架）；
 
